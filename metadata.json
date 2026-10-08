@@ -1,0 +1,6 @@
+{
+  "name": "Motor Chronicles",
+  "description": "Stories Behind the Machines. A premier digital automotive editorial publication exploring cars, bikes, engineering heritage, motorsport, culture, and future mobility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
